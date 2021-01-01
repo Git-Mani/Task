@@ -39,8 +39,5 @@ public class Employee
 		this.eCity = eCity;
 	}
 
-	Employee()
-	{
 
-	}
 }
